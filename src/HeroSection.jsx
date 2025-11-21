@@ -22,6 +22,10 @@ function Hero(){
                 <p class="text-blue-800 font-bold">MEMBERS FIRST</p>
             </div>
 
+            <div class="text-white w-40 h-15 bg-blue-800 rounded-md absolute left-25 top-120">
+                <button class="font-bold">Learn More</button>
+            </div>
+
         </div>
         </>
     )
