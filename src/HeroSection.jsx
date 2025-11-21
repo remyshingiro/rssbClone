@@ -25,6 +25,16 @@ function Hero(){
             <div class="text-white w-40 h-15 bg-blue-800 rounded-md absolute left-25 top-120">
                 <button class="font-bold">Learn More</button>
             </div>
+        </div>
+
+        <div class="w-289 h-80 bg-gray-40">
+            <div class="text-4xl font-bold absolute left-50 mt-20">
+                <p class="text-gray-500">Optimistic and forward-looking</p>
+                <p class="text-gray-500">agent of central government, working to achieve</p>
+                <p class="text-blue-800">the financial security and health of</p>
+                <p class="text-blue-800">all Rwandans.</p>
+            </div>
+
 
         </div>
         </>
