@@ -38,7 +38,7 @@ function Hero(){
 
         <div class="flex space-x-4 bg-white w-200 h-36 absolute top-164 left-45">
             <div>
-                <img class="w-12" src="src/assets/public (2).svg"/>
+                <img class="w-12 " src="src/assets/public (2).svg"/>
                 <p class="font-bold text-blue-950">Member First</p>
                 <p><span class="text-blue-900 font-bold">13 Million</span> of Rwandans</p>
                 <p> are covered by RSSB services</p>
