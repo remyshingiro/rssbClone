@@ -31,7 +31,7 @@ function News(){
                 </div>
 
                 <div>
-                    <img class="w-80" src="src/assets/meeting.jpeg"/>
+                    <img class="w-80 " src="src/assets/meeting.jpeg"/>
                     <p class="text-sm text-gray-400">a year ago</p>
                     <p class="text-purple-950 font-bold">RSSB Engages the Private Sector on</p>
                     <p class="text-purple-950 font-bold">Pension Reforms and .....</p>

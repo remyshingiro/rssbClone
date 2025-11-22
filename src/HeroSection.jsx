@@ -15,7 +15,7 @@ function Hero(){
         </div>
 
         <div class=" h-120 bg-sky-50">
-            <img class="w-150 h-100 absolute left-139" src="src/assets/client.jpeg"/>
+            <img class="w-150 h-90 rounded-3xl shadow-2xl absolute left-159 mt-4" src="src/assets/client.jpeg"/>
             <div class="absolute left-25 top-80 text-2xl">
                 <p class="text-gray-700"><span class="text-yellow-500 font-bold">Member First</span>, data-driven, evidence-</p>
                 <p class="text-gray-700">based and high performing organization.</p>
@@ -28,7 +28,7 @@ function Hero(){
         </div>
 
         <div class=" h-80 bg-gray-200">
-            <div class="text-4xl font-bold absolute left-50 mt-20">
+            <div class="text-4xl font-bold absolute left-50 mt-27">
                 <p class="text-gray-500">Optimistic and forward-looking</p>
                 <p class="text-gray-500">agent of central government, working to achieve</p>
                 <p class="text-blue-800">the financial security and health of</p>
@@ -36,35 +36,33 @@ function Hero(){
             </div>
         </div>
 
-        <div class="flex space-x-4 bg-white w-200 h-36 absolute top-164 left-45">
+        <div class="flex space-x-4 bg-white w-200 h-40 absolute top-164 left-45 shadow-2xl rounded-sm">
             <div>
-                <img class="w-12 " src="src/assets/public (2).svg"/>
-                <p class="font-bold text-blue-950">Member First</p>
-                <p><span class="text-blue-900 font-bold">13 Million</span> of Rwandans</p>
-                <p> are covered by RSSB services</p>
+                <img class="w-12 ml-7" src="src/assets/public (2).svg"/>
+                <p class="font-bold text-blue-950 ml-7">Member First</p>
+                <p><span class="text-blue-900 font-bold ml-2">13 Million</span> of Rwandans</p>
+                <p class="ml-2"> are covered by RSSB services</p>
             </div>
 
             <div>
-                <img class="w-12" src="src/assets/public (2).svg"/>
-                <p class="font-bold text-blue-950">Experience</p>
-                <p><span class="text-blue-900 font-bold">60 years</span>of service for your</p>
-                <p> safety and well-being.</p>
+                <img class="w-12 ml-7" src="src/assets/public (2).svg"/>
+                <p class="font-bold text-blue-950 ml-7">Experience</p>
+                <p><span class="text-blue-900 font-bold ml-2">60 years</span>of service </p>
+                <p class="ml-2"> safety and well-being.</p>
             </div>
 
             <div>
-                <img class="w-12" src="src/assets/public (1).svg"/>
-                <p class="font-bold text-blue-950">Branches</p>
-                <p>Our services decentralized</p>
-                <p> in<span class="text-blue-900 font-bold">30 Branches</span>for your</p>
-                <p> satisfaction</p>
+                <img class="w-12 ml-7" src="src/assets/public (1).svg"/>
+                <p class="font-bold text-blue-950 ml-7">Branches</p>
+                <p class="ml-2">Our services decentralized</p>
+                <p><span class="text-blue-900 font-bold">30 Branches</span>for your</p>
             </div>
 
             <div>
-                <img class="w-12" src="src/assets/public.svg"/>
-                <p class="font-bold text-blue-950">Data Driven</p>
+                <img class="w-12 ml-7" src="src/assets/public.svg"/>
+                <p class="font-bold text-blue-950 ml-6">Data Driven</p>
                 <p>Learning from our data to</p>
                 <p>improve the services offered</p>
-                <p>to our members</p>
             </div>
         </div>
         </>
