@@ -12,7 +12,7 @@ function Digital(){
            <div className="flex gap-19 mt-6 ml-15">
              <div className="w-64">
              <div className="w-20 h-20 bg-gray-300 rounded-full ">
-                <img src="" alt=""/>
+                <img class="w-12" src="src/assets/public (2).svg" alt=""/>
              </div>
 
              <p className="text-purple-950 font-bold">Changing from Legacy</p>
@@ -27,7 +27,7 @@ function Digital(){
 
            <div className="w-64">
              <div className="w-20 h-20 bg-gray-300 rounded-full ">
-                <img src="" alt=""/>
+                <img class="w-12" src="src/assets/public (2).svg" alt=""/>
              </div>
 
              <p className="text-purple-950 font-bold">Non-paper based</p>
@@ -42,7 +42,7 @@ function Digital(){
 
             <div className="w-64">
              <div className="w-20 h-20 bg-gray-300 rounded-full ">
-                <img src="" alt=""/>
+                <img class="w-12" src="src/assets/public (2).svg" alt=""/>
              </div>
 
              <p className="text-purple-950 font-bold">Ensure the compliance</p>

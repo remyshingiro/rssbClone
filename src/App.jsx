@@ -4,6 +4,7 @@ import Menu from './MenuBar';
 import Hero from './HeroSection';
 import Social from './Social';
 import Digital from './Digital';
+import News from './News';
 
 function App() {
 
@@ -14,6 +15,7 @@ function App() {
     <Hero/>
     <Social/>
     <Digital/>
+    <News/>
      
     </>
   )
