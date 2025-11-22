@@ -1,7 +1,7 @@
 function Hero(){
     return(
         <>
-        <div class="bg-blue-800 w-250 h-17 rounded mx-25">
+        <div class="bg-blue-800 w-250 h-17 rounded ml-20">
             <div class="text-white space-x-4 m-4">
                 <a href="#">HOME</a>
                 <a href="#">SCHEMES</a>
@@ -23,7 +23,7 @@ function Hero(){
             </div>
 
             <div class="text-white w-40 h-15 bg-blue-800 rounded-md absolute left-25 top-120">
-                <button class="font-bold">Learn More</button>
+                <button class="font-bold ml-8 mt-3">Learn More</button>
             </div>
         </div>
 
