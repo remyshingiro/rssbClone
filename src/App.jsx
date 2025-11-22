@@ -5,6 +5,7 @@ import Hero from './HeroSection';
 import Social from './Social';
 import Digital from './Digital';
 import News from './News';
+import Footer from './Footer';
 
 function App() {
 
@@ -16,6 +17,7 @@ function App() {
     <Social/>
     <Digital/>
     <News/>
+    <Footer/>
      
     </>
   )
