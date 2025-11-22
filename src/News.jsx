@@ -41,6 +41,10 @@ function News(){
                     <p class="text-nm text-gray-400">With the private sector to discuss upcoming</p>
                 </div>
             </div>
+
+            <div class="text-blue-800 font-bold rounded-md border-blue-700 ring-blue-900 ml-140 mt-15">
+                <button>View More</button>
+            </div>
          </div>
         </>
     )
