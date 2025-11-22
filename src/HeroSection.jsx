@@ -15,7 +15,7 @@ function Hero(){
         </div>
 
         <div class=" h-120 bg-sky-50">
-            <img class="w-150 h-90 rounded-3xl shadow-2xl absolute left-159 mt-4" src="public/client.jpeg"/>
+            <img class="w-150 h-90 rounded-3xl shadow-2xl absolute left-159 mt-4" src="/client.jpeg"/>
             <div class="absolute left-25 top-80 text-2xl">
                 <p class="text-gray-700"><span class="text-yellow-500 font-bold">Member First</span>, data-driven, evidence-</p>
                 <p class="text-gray-700">based and high performing organization.</p>
