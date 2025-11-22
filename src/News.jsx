@@ -9,7 +9,7 @@ function News(){
 
             <div  class="flex gap-22 ml-15 mt-10">
                 <div>
-                    <img class="w-80" src="src/assets/meeting.jpeg"/>
+                    <img class="w-80" src="/meeting.jpeg"/>
                     <p class="text-sm text-gray-400">a year ago</p>
                     <p class="text-purple-950 font-bold">RSSB Engages the Private Sector on</p>
                     <p class="text-purple-950 font-bold">Pension Reforms and .....</p>
@@ -20,7 +20,7 @@ function News(){
                 </div>
 
                 <div>
-                    <img class="w-80 h-54" src="src/assets/players.jpeg"/>
+                    <img class="w-80 h-54" src="/players.jpeg"/>
                     <p class="text-sm text-gray-400">a year ago</p>
                     <p class="text-purple-950 font-bold">RSSB Engages the Private Sector on</p>
                     <p class="text-purple-950 font-bold">Pension Reforms and .....</p>
@@ -31,7 +31,7 @@ function News(){
                 </div>
 
                 <div>
-                    <img class="w-80 " src="src/assets/meeting.jpeg"/>
+                    <img class="w-80 " src="/meeting.jpeg"/>
                     <p class="text-sm text-gray-400">a year ago</p>
                     <p class="text-purple-950 font-bold">RSSB Engages the Private Sector on</p>
                     <p class="text-purple-950 font-bold">Pension Reforms and .....</p>

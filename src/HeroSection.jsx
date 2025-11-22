@@ -38,28 +38,28 @@ function Hero(){
 
         <div class="flex space-x-4 bg-white w-200 h-40 absolute top-164 left-45 shadow-2xl rounded-sm">
             <div>
-                <img class="w-12 ml-7" src="src/assets/public (2).svg"/>
+                <img class="w-12 ml-7" src="/public (2).svg"/>
                 <p class="font-bold text-blue-950 ml-7">Member First</p>
                 <p><span class="text-blue-900 font-bold ml-2">13 Million</span> of Rwandans</p>
                 <p class="ml-2"> are covered by RSSB services</p>
             </div>
 
             <div>
-                <img class="w-12 ml-7" src="src/assets/public (2).svg"/>
+                <img class="w-12 ml-7" src="/public (2).svg"/>
                 <p class="font-bold text-blue-950 ml-7">Experience</p>
                 <p><span class="text-blue-900 font-bold ml-2">60 years</span>of service </p>
                 <p class="ml-2"> safety and well-being.</p>
             </div>
 
             <div>
-                <img class="w-12 ml-7" src="src/assets/public (1).svg"/>
+                <img class="w-12 ml-7" src="/public (1).svg"/>
                 <p class="font-bold text-blue-950 ml-7">Branches</p>
                 <p class="ml-2">Our services decentralized</p>
                 <p><span class="text-blue-900 font-bold">30 Branches</span>for your</p>
             </div>
 
             <div>
-                <img class="w-12 ml-7" src="src/assets/public.svg"/>
+                <img class="w-12 ml-7" src="/public.svg"/>
                 <p class="font-bold text-blue-950 ml-6">Data Driven</p>
                 <p>Learning from our data to</p>
                 <p>improve the services offered</p>
