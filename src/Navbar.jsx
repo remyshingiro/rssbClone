@@ -1,7 +1,7 @@
 function Navbar(){
     return(
         <>
-        <div class="w-289 h-12 bg-sky-50">
+        <div class=" h-12 bg-sky-50">
             <div class="flex ">
                 <div class="flex w-58 justify-center items-center h-8">
                     <a><img src="src/assets/07e44c65-84c6-4b9c-a94a-a168ec022822.svg"/></a>

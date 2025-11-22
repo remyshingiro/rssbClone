@@ -14,7 +14,7 @@ function Hero(){
 
         </div>
 
-        <div class="w-289 h-120 bg-sky-50">
+        <div class=" h-120 bg-sky-50">
             <img class="w-150 h-100 absolute left-139" src="src/assets/client.jpeg"/>
             <div class="absolute left-25 top-80 text-2xl">
                 <p class="text-gray-700"><span class="text-yellow-500 font-bold">Member First</span>, data-driven, evidence-</p>
@@ -27,7 +27,7 @@ function Hero(){
             </div>
         </div>
 
-        <div class="w-289 h-80 bg-gray-200">
+        <div class=" h-80 bg-gray-200">
             <div class="text-4xl font-bold absolute left-50 mt-20">
                 <p class="text-gray-500">Optimistic and forward-looking</p>
                 <p class="text-gray-500">agent of central government, working to achieve</p>

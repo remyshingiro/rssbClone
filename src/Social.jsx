@@ -1,7 +1,7 @@
 function Social(){
     return(
         <>
-        <div class="bg-gray-300 w-289 h-170">
+        <div class="bg-gray-300  h-170">
             <img class="w-150 h-100 absolute left-139 mt-40 shadow-2xl" src="src/assets/public.jpeg"/>
         </div>
 
